@@ -3,7 +3,7 @@ import httpx
 import os
 from services import GitHubEventHandler
 
-app=FastAPI()
+app = FastAPI()
 event_handler = GitHubEventHandler.GitHubEventHandler()
 
 
