@@ -1,4 +1,3 @@
-from email import message
 from fastapi import Request
 from .message_sender import MessageSender
 
