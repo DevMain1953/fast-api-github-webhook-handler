@@ -1,6 +1,6 @@
 # Overview
 
-FastAPI server, provides asynchronous methods to handle GitHub events (for now):
+FastAPI service, provides asynchronous methods to handle GitHub events (for now):
 - push
 - pull request (also with ```merged``` action)
 - star
